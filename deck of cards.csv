@@ -1,0 +1,65 @@
+id,value,color
+Cards,,
+Cards.Red,,
+Cards.Red.Diamonds,,
+Cards.Red.Diamonds.Face Cards,,
+Cards.Red.Diamonds.Face Cards.Jack,1,#808080
+Cards.Red.Diamonds.Face Cards.Queen,1,#2E2575
+Cards.Red.Diamonds.Face Cards.King,1,#E54F24
+Cards.Red.Diamonds.Number Cards,,
+Cards.Red.Diamonds.Number Cards.Ace,0.5,#617CBE
+Cards.Red.Diamonds.Number Cards.One,0.5,#617CBE
+Cards.Red.Diamonds.Number Cards.Two,0.5,#617CBE
+Cards.Red.Diamonds.Number Cards.Three,0.5,#617CBE
+Cards.Red.Diamonds.Number Cards.Four,0.5,#617CBE
+Cards.Red.Diamonds.Number Cards.Five,0.5,#617CBE
+Cards.Red.Diamonds.Number Cards.Six,0.5,#617CBE
+Cards.Red.Diamonds.Number Cards.Seven,0.5,#617CBE
+Cards.Red.Diamonds.Number Cards.Eight,0.5,#617CBE
+Cards.Red.Diamonds.Number Cards.Nine,0.5,#617CBE
+Cards.Red.Heart,,
+Cards.Red.Heart.Face Cards,,
+Cards.Red.Heart.Face Cards.Jack,1,#808080
+Cards.Red.Heart.Face Cards.Queen,1,#2E2575
+Cards.Red.Heart.Face Cards.King,1,#E54F24
+Cards.Red.Heart.Number Cards,,
+Cards.Red.Heart.Number Cards.Ace,1.5,#00618A
+Cards.Red.Heart.Number Cards.Two,1.5,#00618A
+Cards.Red.Heart.Number Cards.Three,1.5,#00618A
+Cards.Red.Heart.Number Cards.Four,1.5,#00618A
+Cards.Red.Heart.Number Cards.Five,1.5,#00618A
+Cards.Red.Heart.Number Cards.Six,1.5,#00618A
+Cards.Red.Heart.Number Cards.Seven,1.5,#00618A
+Cards.Red.Heart.Number Cards.Eight,1.5,#00618A
+Cards.Red.Heart.Number Cards.Night,1.5,#00618A
+Cards.Black,,
+Cards.Black.Clubs,,
+Cards.Black.Clubs.Face Cards,,
+Cards.Black.Clubs.Face Cards.Jack,1.3,#808080
+Cards.Black.Clubs.Face Cards.Queen,1.3,#2E2575
+Cards.Black.Clubs.Face Cards.King,1.3,#E54F24
+Cards.Black.Clubs.Number Cards,,
+Cards.Black.Clubs.Number Cards.Ace,1.8,#EB2C2F
+Cards.Black.Clubs.Number Cards.Two,1.8,#EB2C2F
+Cards.Black.Clubs.Number Cards.Three,1.8,#EB2C2F
+Cards.Black.Clubs.Number Cards.Four,1.8,#EB2C2F
+Cards.Black.Clubs.Number Cards.Five,1.8,#EB2C2F
+Cards.Black.Clubs.Number Cards.Six,1.8,#EB2C2F
+Cards.Black.Clubs.Number Cards.Seven,1.8,#EB2C2F
+Cards.Black.Clubs.Number Cards.Eight,1.8,#EB2C2F
+Cards.Black.Clubs.Number Cards.Night,1.8,#EB2C2F
+Cards.Black.Spades,,
+Cards.Black.Spades.Face Cards,,
+Cards.Black.Spades.Face Cards.Jack,1.4,#808080
+Cards.Black.Spades.Face Cards.Queen,1.4,#2E2575
+Cards.Black.Spades.Face Cards.King,1.4,#E54F24
+Cards.Black.Spades.Number Cards,,
+Cards.Black.Spades.Number Cards.Ace,1.9,#040404
+Cards.Black.Spades.Number Cards.Two,1.9,#040405
+Cards.Black.Spades.Number Cards.Three,1.9,#040406
+Cards.Black.Spades.Number Cards.Four,1.9,#040407
+Cards.Black.Spades.Number Cards.Five,1.9,#040408
+Cards.Black.Spades.Number Cards.Six,1.9,#040409
+Cards.Black.Spades.Number Cards.Seven,1.9,#040410
+Cards.Black.Spades.Number Cards.Eight,1.9,#040411
+Cards.Black.Spades.Number Cards.Nine,1.9,#040412
